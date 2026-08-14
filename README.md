@@ -8,7 +8,6 @@ Este repositório centraliza a apresentação pública e os padrões compartilha
 .github/
 ├── profile/
 │   └── README.md
-├── ISSUE_TEMPLATE/
 ├── PULL_REQUEST_TEMPLATE.md
 ├── CONTRIBUTING.md
 └── README.md
@@ -17,7 +16,6 @@ Este repositório centraliza a apresentação pública e os padrões compartilha
 ## Finalidade dos arquivos
 
 - `profile/README.md`: apresentação exibida na página principal da organização.
-- `ISSUE_TEMPLATE/`: modelos compartilhados para abertura de Issues.
 - `PULL_REQUEST_TEMPLATE.md`: roteiro para revisão das alterações.
 - `CONTRIBUTING.md`: orientações para colaboração da equipe.
 
