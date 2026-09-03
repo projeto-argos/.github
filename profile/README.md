@@ -30,3 +30,11 @@ experiência do usuário, inteligência artificial e metodologia de projetos em 
 ## Equipe
 
 Projeto desenvolvido colaborativamente pela equipe ARGOS.
+
+## Integrantes 
+
+Eduardo Toledo Alves de Almeida
+Letícia Silva Ribeiro 
+Lucca Cansani
+Murilo Gonçalves Paiva
+Pietra de Oliveira Silva Gomes
