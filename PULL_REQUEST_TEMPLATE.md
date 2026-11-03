@@ -1,6 +1,6 @@
 ## Demanda relacionada
 
-Jira: ARGOS-___
+Jira: SCRUM-___ (ou "não se aplica")
 
 ## Objetivo
 

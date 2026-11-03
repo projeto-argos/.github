@@ -1,40 +1,37 @@
 # ARGOS
 
-Projeto interdisciplinar de tecnologia desenvolvido por estudantes do 1º ano.
+Sistema web de gestão de pecuária e de medicamentos aplicados em bovinos, desenvolvido no projeto interdisciplinar do 1º ano.
 
-## Sobre o projeto
+O ARGOS ajuda o produtor a registrar aplicações de medicamentos, controlar o estoque e acompanhar os períodos de carência, reduzindo perdas e riscos sanitários.
 
-O ARGOS reúne conhecimentos de desenvolvimento de software, banco de dados,
-experiência do usuário, inteligência artificial e metodologia de projetos em uma solução interdisciplinar.
+## Acesse
 
-## Tecnologias
-
-- Java e Maven
-- PostgreSQL e JDBC
-- Servlets
-- HTML, CSS e JavaScript
-- Git e GitHub
-- UX/UI
-- Inteligência Artificial
+- **Landing page:** [argos-landingpage.vercel.app](https://argos-landingpage.vercel.app/)
+- **Sistema:** [argos-web-crud.onrender.com](https://argos-web-crud.onrender.com)
 
 ## Repositórios
 
-| Repositório | Finalidade |
+| Repositório | Conteúdo |
 |---|---|
-| `argos-web-crud` | Aplicação Java com Maven, Model, DAO, Servlet e JDBC |
-| `argos-bd` | Modelagem e scripts do banco de dados PostgreSQL |
-| `argos-landingpage` | Landing page e interfaces web do projeto |
-| `argos-ai` | Memorial, prompts e evidências do uso de IA |
-| `argos-docs` | UX, metodologia e documentação interdisciplinar |
+| [argos-web-crud](https://github.com/projeto-argos/argos-web-crud) | Aplicação Java com Servlet, JSP e JDBC |
+| [argos-bd](https://github.com/projeto-argos/argos-bd) | Modelagem, scripts SQL e convenção de nomenclatura |
+| [argos-landingpage](https://github.com/projeto-argos/argos-landingpage) | Landing page e telas estáticas do CRUD |
+| [argos-ai](https://github.com/projeto-argos/argos-ai) | Agente de IA (Gem) e memorial descritivo |
+| [argos-docs](https://github.com/projeto-argos/argos-docs) | Artefatos de UX |
+
+## Tecnologias
+
+- Java 21, Jakarta Servlet e JSP (Tomcat)
+- PostgreSQL com JDBC e HikariCP
+- HTML, CSS e JavaScript
+- Figma (UX/UI)
+- Gemini (agente especializado)
+- Git e GitHub
 
 ## Equipe
 
-Projeto desenvolvido colaborativamente pela equipe ARGOS.
-
-## Integrantes 
-
-Eduardo Toledo Alves de Almeida
-Letícia Silva Ribeiro 
-Lucca Cansani
-Murilo Gonçalves Paiva
-Pietra de Oliveira Silva Gomes
+- Eduardo Toledo Alves de Almeida
+- Letícia Silva Ribeiro
+- Lucca Cansani
+- Murilo Gonçalves Paiva
+- Pietra de Oliveira Silva Gomes
